@@ -1,2 +1,1 @@
-# argocd-demo
-# argocd-demo
+## Public repo with some files for ArgoCD demo.
